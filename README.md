@@ -1,32 +1,120 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Caio Proença!
-=====================================================================================================================================
+# Hey, I'm Caio Proença 👋
 
-Developer
----------
-
-A humble and passionate geek developer from Brazil! I go around calling myself 'the final hope' but most of the time I don't even believe in myself. I just do what little I can trying to help everyone.
-
-* 🌍  I'm based in Votorantim, SP - Brazil
-* ✉️  You can contact me at [cmproenca2@gmail.com](mailto:cmproenca2@gmail.com)
-* 🧠  I'm learning Laravel and Docker
-* ⚡  I don't have a dream... But you know, I can protect dreams.
-
-### Skills
-
+### Software Developer | Data Engineering | Python · SQL · Go
 
 <p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+  <a href="https://www.linkedin.com/in/cmproenca/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/cmproenca">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
+---
 
-### Socials
+## 👨‍💻 About Me
 
-<p align="left"> <a href="https://www.github.com/cmproenca" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+I'm a Software Developer from Brazil, currently focusing on **Data Engineering** and building reliable data-driven solutions.
 
-### Badges
+My experience involves data extraction, processing, validation, automation, API integration, and asynchronous pipelines. I enjoy working at the intersection of software engineering, data, and AI — turning complex information into structured and useful data.
 
-<div>
-<a href="https://github.com/cmproenca">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmproenca&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=cmproenca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+- 🌎 Based in Votorantim, São Paulo, Brazil
+- 💼 Software Developer at AMEnergia
+- 🐍 Working with Python, SQL, Go, and PHP
+- 🔄 Interested in Data Engineering, ETL/ELT, and Data Pipelines
+- 🤖 Experience with document processing, OCR, and Machine Learning
+- 📚 Currently deepening my knowledge of data architecture and engineering
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,php,laravel,java,js,ts" alt="Languages and backend technologies"/>
+</p>
+
+### Data, AI & Processing
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" alt="Data and AI technologies"/>
+</p>
+
+**Also working with:** Scikit-learn, PaddlePaddle, Hugging Face Transformers, PyMuPDF, OCR, SQL, and LLM APIs.
+
+### Databases & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,aws,git,linux,vscode" alt="Databases and tools"/>
+</p>
+
+**Also familiar with:** MariaDB, WSL, REST APIs, NSQ, and WebSocket.
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular,react" alt="Frontend technologies"/>
+</p>
+
+---
+
+## 🚀 Featured Work
+
+### ⚡ Energy PDF Pipeline
+An asynchronous data processing pipeline focused on extracting and validating structured information from electricity bills.
+
+- Event-driven processing with independent workers.
+- Message queues and asynchronous workflows.
+- Automatic retries, traceability, and failure handling.
+- Data extraction and validation using business rules.
+
+**Tech:** Go · NSQ · MariaDB · Docker · LLM APIs · React
+
+### 📄 Platypus — Document Data Extraction
+A document processing solution focused on extracting structured information from electricity bills.
+
+- Automated extraction from unstructured documents.
+- OCR and Machine Learning-based processing.
+- Data validation and extraction workflow improvements.
+- Helped reduce error-correction time from up to 3 days to approximately 15 minutes.
+
+**Tech:** Python · TensorFlow · Scikit-learn · PaddlePaddle · Hugging Face · OpenCV · PyMuPDF
+
+### 📊 Premier Hall
+A data analysis project focused on English Premier League statistics, player performance, and predictive experiments.
+
+**Tech:** Python · Scikit-learn · Keras · Matplotlib
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cmproenca&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Caio's GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmproenca&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmproenca&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to connecting with developers, learning from different experiences, and discussing software engineering, data, and technology.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/cmproenca/">LinkedIn</a> ·
+  <a href="mailto:">Email</a> ·
+  <a href="https://github.com/cmproenca">GitHub</a>
+</p>
+
+<p align="center">
+  <i>"I don't have a dream... But you know, I can protect dreams."</i>
+</p>
